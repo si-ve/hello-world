@@ -1,2 +1,4 @@
 # hello-world
-like always
+like always!
+
+DSGVO und so.
